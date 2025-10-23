@@ -5,6 +5,7 @@ It covers everything from defining cloud resources as code to automating deploym
 
 
 **Overview**
+
 This repository automates the deployment of AWS infrastructure including:
 
 🌐 VPCs and Subnets
@@ -15,5 +16,5 @@ This repository automates the deployment of AWS infrastructure including:
 
 ⚙️ Remote State Management using S3 and DynamoDB
 
-<img width="1253" height="338" alt="image" src="https://github.com/user-attachments/assets/ea22333f-1bbe-4692-a647-8ef8e79bb265" />
+
 
